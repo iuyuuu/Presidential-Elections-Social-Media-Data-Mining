@@ -1,4 +1,4 @@
-# Data Mining 
+# "2024 US Presidential Elections: Social Media Data Mining from YouTube and Blue Sky"
 
 The US presidential elections in 2024 is coming to the corner and much of the conversations about the elections are happening on social media. In this project, I tried to collect data from two YouTube channels (CNN and FoxNews) and two Blue Sky accounts (The Washington Post and the New York Times).
 
